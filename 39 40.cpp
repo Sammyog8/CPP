@@ -46,7 +46,7 @@ class Distance
 };
 int main()
 {
-	Distance c1(5,5),c2(6,9);
-	c1+c2;
-	c1-c2;
+	Distance d1(5,5),d2(6,9);
+	d1+d2;
+	d1-d2;
 }
